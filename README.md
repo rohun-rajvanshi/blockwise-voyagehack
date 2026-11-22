@@ -50,4 +50,5 @@ Planned on one set of 4,000 scenarios and scored on a fresh set: +12% with an ac
 
 ## AI tools used
 
-- An AI coding and analysis assistant helped write the simulator and allocator, run the tests, and draft the slides and this README. The team reviewed the outputs.
+- **Claude (Anthropic), via Claude Code:** AI coding and analysis assistant. Used to write the simulator and budget allocator, run the held-out and forecast-error tests, pressure-test the solution, and draft the slides, speaker script and this README.
+- The team chose the approach, reviewed every output and made the final calls.
